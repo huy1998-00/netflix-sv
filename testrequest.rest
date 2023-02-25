@@ -1,0 +1,28 @@
+# GET http://localhost:5000/api/movies/trending?page=2&limit=10&token=8qlOkxz4wq
+
+# GET http://localhost:5000/api/movies/top-rate?page=1&limit=10&token=8qlOkxz4wq
+
+# fetchActionMovies: `/discover/movie?api_key=${API_KEY}&with_genres=28`,
+# /api/movies/discover
+
+# GET http://localhost:5000/api/movies/discover?page=3&limit=10&genre=28&token=8qlOkxz4wq
+
+# GET http://localhost:5000/api/movies/video/361743
+
+# POST http://localhost:5000/api/movies/video?&token=8qlOkxz4wq
+# content-type: application/json
+
+# {
+#     "film_id" :762504
+# }
+
+
+# POST http://localhost:5000/api/movies/search?&token=8qlOkxz4wq
+# content-type: application/json
+
+# {
+#     "keyword" : "dasudh"
+# }
+
+
+GET http://localhost:5000/asdvasdqwe
